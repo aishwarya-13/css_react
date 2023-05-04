@@ -1,0 +1,10 @@
+#root{
+  height: calc(100vh);
+  /* width: calc(100vw); */
+  border: 1px solid black;
+}
+
+body{
+  padding: 0 !important;
+  margin: 0 !important;
+}
